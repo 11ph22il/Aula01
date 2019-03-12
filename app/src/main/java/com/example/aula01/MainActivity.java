@@ -3,8 +3,6 @@ package com.example.aula01;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -78,9 +76,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         }
         else{
-            out_txt_resultado.setText("Campos Vazios");
+            out_txt_resultado.setText(R.string.msg_campoVazio);
         }
-
     }
 }
-
