@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="digite_um_nome">Digite um nome</string>
+    <string name="mostrar_nome">Mostrar Nome</string>
+    <string name="lbl_texto_fixo">O nome digitado foi: </string>
+    <string name="btn_limparTexto">Limpar</string>
+
+    <string name="lbl_numero1">Numero 1</string>
+    <string name="lbl_numero2">Numero 2</string>
+    <string name="btn_adicao">+</string>
+    <string name="btn_subtracao">-</string>
+    <string name="btn_multiplicacao">*</string>
+    <string name="btn_divisao">/</string>
+    <string name="txt_resultado">RESULTADO:</string>
+    <string name="msg_campoVazio">Campos Vazios</string>
+</resources>
